@@ -1,0 +1,7 @@
+[package]
+name = "skye-chess-gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chess = { git = "https://github.com/INDA23PlusPlus/pechmann-chess" }
